@@ -1,70 +1,92 @@
-<!-- GitHub README for Manjeet Sharma -->
-
+<h1 align="center">Manjeet Sharma</h1>
 <p align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome GIF" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manjeet-sharma-07a22428b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.instagram.com/meet__.02" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:meet75152@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManjeetSharma0&style=flat-square&color=blue" alt="Profile views"/>
+Frontend Developer | React.js | Next.js | JavaScript | Tailwind CSS
 </p>
 
 ---
 
-## 👋 Hey there, I'm Manjeet Sharma
-
-🚀 Frontend Developer | React.js | Next.js | Tailwind CSS  
-📍 Indore, India | Currently at AEC Business Consultant and IT Solutions
-
-- 🔭 Working on full-stack features & UI/UX enhancements  
-- 💡 Love solving real-world problems with clean, scalable code  
-- 📈 Diving deeper into advanced React patterns  
-- 🧩 Hobbies: Chess, coding puzzles, exploring dev tools
+## About
+Frontend Developer with 1+ year of experience building scalable web applications using React.js, Next.js, and Tailwind CSS. Strong focus on performance optimization, REST API integration, and responsive UI development. Experienced in delivering production-ready applications in Agile environments.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="30" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-</p>
+Frontend Development  
+React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS  
 
+State Management & APIs  
+Redux, Context API, REST APIs, Axios  
 
+Performance & Optimization  
+Code Splitting, Lazy Loading, SEO Optimization  
 
+Tools & Technologies  
+Git, GitHub, Bitbucket, Postman, VS Code  
+
+Core Concepts  
+Responsive Design, Component Architecture, Cross-Browser Compatibility  
 
 ---
 
-## 📊 GitHub Stats
+## Experience
 
+Frontend Developer  
+AEC Business Consultant and IT Solutions, New Delhi  
+Jan 2025 – Present  
+
+- Developed 4+ scalable web applications using React.js, Next.js, and Tailwind CSS  
+- Improved development efficiency by 20% through reusable component architecture  
+- Integrated 10+ REST APIs enabling real-time data flow and automation  
+- Optimized performance by 15–25% using code splitting and lazy loading  
+- Built responsive UI from Figma with cross-browser compatibility  
+- Resolved 15+ production issues improving application stability  
+- Collaborated in Agile teams to accelerate delivery timelines  
+
+Software Developer Intern  
+Web Cure Info Solutions India Pvt. Ltd.  
+Sep 2023 – Dec 2023  
+
+- Built REST APIs using Java and Spring Boot  
+- Developed UI using React.js, JSP, and Servlets  
+- Implemented validation and exception handling  
+
+---
+
+## Projects
+
+AI Chatbot (ShuraaGPT)  
+- Built using Next.js and Tailwind CSS  
+- Integrated APIs for real-time responses  
+- Improved performance and user engagement  
+
+Admin Panel (Amara Clinic)  
+- Developed dashboard with multiple modules  
+- Implemented CRUD operations  
+- Reduced manual processes by 30%  
+
+Dubiz Website Revamp  
+- Migrated from Laravel to Next.js  
+- Improved performance by 25–30%  
+- Developed 28+ service pages  
+
+Dart Website Expansion  
+- Expanded from landing page to 30+ pages  
+- Ensured responsive and consistent UI  
+
+---
+
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManjeetSharma0&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjeetSharma0&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManjeetSharma0&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-<blockquote align="center">
-  <em>"The best way to predict the future is to create it." – Abraham Lincoln</em>
-</blockquote>
+## Contact
+Email: meet75152@gmail.com  
+LinkedIn: https://linkedin.com/in/manjeet-sharma-dev  
+
+---
+
+Open to Frontend Developer opportunities and collaboration.
